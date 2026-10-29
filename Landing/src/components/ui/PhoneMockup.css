@@ -1,0 +1,50 @@
+/* One shared titanium and glass enclosure for both original app captures. */
+.phone-stage,.app-phone-stage{perspective:1400px;overflow:visible}
+.phone.iphone-device{
+  --phone-radius:44px;
+  --phone-angle:-13deg;
+  position:relative;
+  padding:9px;
+  border:1px solid #b8b8b5;
+  border-radius:var(--phone-radius);
+  background:linear-gradient(110deg,#f1f0ed 0%,#7a7b7c 6%,#27292b 14%,#a5a7a7 48%,#494b4d 83%,#deded9 100%);
+  transform:rotateX(5deg) rotateY(var(--phone-angle)) rotateZ(3deg);
+  transform-style:preserve-3d;
+  box-shadow:1px 0 0 #dddeda,3px 1px 0 #5c5e60,6px 2px 0 #252729,9px 3px 0 #555759,10px 4px 0 #161719,18px 26px 35px #0005,28px 48px 75px #0007,inset 0 0 0 2px #e4e4df55;
+  transition:transform .45s ease,box-shadow .45s ease;
+  isolation:isolate;
+}
+.phone.iphone-device.explore-phone{--phone-angle:13deg;transform:rotateX(5deg) rotateY(var(--phone-angle)) rotateZ(-4deg)}
+.phone.iphone-device:hover{border-color:#d1d1cd;transform:translateY(-6px) rotateX(3deg) rotateY(var(--phone-angle)) rotateZ(1deg)}
+.phone.iphone-device.explore-phone:hover{transform:translateY(-6px) rotateX(3deg) rotateY(var(--phone-angle)) rotateZ(-2deg)}
+.phone.iphone-device .iphone-display{position:relative;display:block;border:3px solid #050505;border-radius:calc(var(--phone-radius) - 9px);overflow:hidden;background:#050505;box-shadow:0 0 0 1px #000,0 0 0 2px #ffffff25;isolation:isolate}
+.iphone-display img{display:block;width:100%;height:auto}
+.iphone-hardware{position:absolute;inset:0;pointer-events:none;border-radius:inherit}
+.iphone-hardware>span{position:absolute;display:block;background:linear-gradient(90deg,#303234,#c1c1be 50%,#484a4b);border:1px solid #17191a;box-shadow:0 1px 2px #0009;border-radius:3px;width:4px;left:-4px}
+.iphone-action{top:15%;height:19px}
+.iphone-volume-up{top:22%;height:38px}
+.iphone-volume-down{top:31%;height:38px}
+.iphone-hardware>.iphone-power{top:25%;height:61px;left:auto;right:-5px;width:5px}
+.iphone-island{position:absolute;z-index:2;top:9px;left:50%;transform:translateX(-50%);width:30%;height:22px;border-radius:20px;background:#030303;box-shadow:0 1px 1px #ffffff0d,inset 0 0 0 1px #141414;pointer-events:none}
+.iphone-camera{position:absolute;right:7px;top:6px;width:10px;height:10px;border-radius:50%;background:radial-gradient(circle at 38% 32%,#365178 0%,#111e30 20%,#050810 45%,#15191d 60%,#030303 75%);box-shadow:0 0 0 1px #111}
+.iphone-earpiece{position:absolute;left:42%;top:4px;width:16%;height:2px;border-radius:5px;background:#161719;box-shadow:0 1px 0 #c5c5c344;pointer-events:none}
+.iphone-glass{position:absolute;inset:0;z-index:3;border-radius:inherit;background:linear-gradient(113deg,#ffffff16 0%,#ffffff04 24%,transparent 44%,transparent 76%,#ffffff08 100%);box-shadow:inset 1px 0 1px #ffffff30,inset -1px 0 1px #ffffff18;pointer-events:none}
+.iphone-home{position:absolute;bottom:5px;left:34%;width:32%;height:3px;border-radius:5px;background:#f5f5f5cc;pointer-events:none}
+@media(max-width:1000px){.phone.iphone-device{--phone-radius:37px;padding:8px}.iphone-island{height:19px;top:7px}.iphone-camera{height:8px;width:8px;top:5px;right:6px}}
+@media(max-width:700px){.phone.iphone-device{--phone-radius:43px;--phone-angle:-9deg}.phone.iphone-device.explore-phone{--phone-angle:9deg}.phone-stage,.app-phone-stage{padding-block:20px 30px}.iphone-island{height:21px;top:9px}.iphone-camera{height:9px;width:9px;top:6px}}
+@media(max-width:380px){.phone.iphone-device{--phone-radius:39px}}
+@media(prefers-reduced-motion:reduce){.phone.iphone-device,.phone.iphone-device.explore-phone,.phone.iphone-device:hover,.phone.iphone-device.explore-phone:hover{transform:rotateY(var(--phone-angle));transition:none}}
+
+/* Front-facing devices retain their metal frame and glass finish. */
+.phone.iphone-device,
+.phone.iphone-device.explore-phone{
+  --phone-angle:0deg;
+  transform:none;
+  box-shadow:0 0 0 1px #343638,0 2px 0 2px #555759,0 5px 0 2px #17191b,0 22px 35px #0005,0 38px 70px #0006,inset 0 0 0 2px #e4e4df55;
+}
+.phone.iphone-device:hover,
+.phone.iphone-device.explore-phone:hover{transform:translateY(-4px)}
+@media(prefers-reduced-motion:reduce){
+  .phone.iphone-device:hover,
+  .phone.iphone-device.explore-phone:hover{transform:none}
+}

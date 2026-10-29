@@ -1,0 +1,3982 @@
+{
+  "sections": {
+    "HeroSection": {
+      "tag": "section",
+      "attrs": {
+        "class": "hero",
+        "id": "inicio",
+        "aria-labelledby": "hero-title"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "hero-photo",
+            "aria-hidden": "true"
+          },
+          "children": []
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "hero-shade",
+            "aria-hidden": "true"
+          },
+          "children": []
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "wrap hero-inner"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "hero-content"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attrs": {
+                    "class": "eyebrow"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "status-dot",
+                        "aria-hidden": "true"
+                      },
+                      "children": []
+                    },
+                    " NUEVA YORK + NUEVA JERSEY. A TU MANERA."
+                  ]
+                },
+                {
+                  "tag": "h1",
+                  "attrs": {
+                    "id": "hero-title"
+                  },
+                  "children": [
+                    "TU PRÓXIMO",
+                    {
+                      "tag": "br",
+                      "attrs": {},
+                      "children": []
+                    },
+                    " PLAN TIENE",
+                    {
+                      "tag": "br",
+                      "attrs": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "accent"
+                      },
+                      "children": [
+                        "BENEFICIOS."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attrs": {
+                    "class": "hero-description"
+                  },
+                  "children": [
+                    "Ese lugar que quieres conocer.",
+                    {
+                      "tag": "br",
+                      "attrs": {},
+                      "children": []
+                    },
+                    " Esa salida que tienes pendiente.",
+                    {
+                      "tag": "br",
+                      "attrs": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "strong",
+                      "attrs": {},
+                      "children": [
+                        "Una razón más para decir: vamos."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attrs": {
+                    "class": "hero-explanation"
+                  },
+                  "children": [
+                    "Descubre la app gratuita de ",
+                    {
+                      "tag": "strong",
+                      "attrs": {},
+                      "children": [
+                        "Insight The City"
+                      ]
+                    },
+                    " y disfruta descuentos y ventajas exclusivas con la membresía opcional de pago ",
+                    {
+                      "tag": "strong",
+                      "attrs": {},
+                      "children": [
+                        "ITC Club."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "hero-actions"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "class": "button",
+                        "href": "#la-app"
+                      },
+                      "children": [
+                        "Descubre la app ",
+                        {
+                          "tag": "svg",
+                          "attrs": {
+                            "aria-hidden": "true"
+                          },
+                          "children": [
+                            {
+                              "tag": "use",
+                              "attrs": {
+                                "href": "#arrow-up-right"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "class": "text-link",
+                        "href": "#beneficios"
+                      },
+                      "children": [
+                        "Beneficios ITC Club ",
+                        {
+                          "tag": "svg",
+                          "attrs": {
+                            "aria-hidden": "true"
+                          },
+                          "children": [
+                            {
+                              "tag": "use",
+                              "attrs": {
+                                "href": "#arrow-down"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attrs": {
+                    "class": "hero-note"
+                  },
+                  "children": [
+                    "App gratuita · Membresía ITC Club opcional y de pago"
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attrs": {
+                "class": "hero-visual"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "visual-heading"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {},
+                      "children": [
+                        "LA CIUDAD. TUS BENEFICIOS."
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "visual-heading-line",
+                        "aria-hidden": "true"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "span",
+                      "attrs": {},
+                      "children": [
+                        "ITC CLUB"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "phone-stage"
+                  },
+                  "children": [
+                    {
+                      "tag": "button",
+                      "attrs": {
+                        "class": "phone hero-phone",
+                        "data-preview": "assets/app-riseny.png",
+                        "aria-label": "Ampliar la pantalla de la app con el beneficio de RiseNY"
+                      },
+                      "children": [
+                        {
+                          "tag": "span",
+                          "attrs": {
+                            "class": "phone-screen"
+                          },
+                          "children": [
+                            {
+                              "tag": "img",
+                              "attrs": {
+                                "src": "assets/app-riseny.png",
+                                "alt": "Pantalla real de Insight The City con RiseNY, beneficios de ITC Club y el acceso a Yorki",
+                                "width": "944",
+                                "height": "2048",
+                                "fetchpriority": "high"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figcaption",
+                  "attrs": {
+                    "class": "visual-footer"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "location-note"
+                      },
+                      "children": [
+                        {
+                          "tag": "svg",
+                          "attrs": {
+                            "aria-hidden": "true"
+                          },
+                          "children": [
+                            {
+                              "tag": "use",
+                              "attrs": {
+                                "href": "#pin"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "span",
+                          "attrs": {},
+                          "children": [
+                            "NUEVA YORK",
+                            {
+                              "tag": "br",
+                              "attrs": {},
+                              "children": []
+                            },
+                            {
+                              "tag": "strong",
+                              "attrs": {},
+                              "children": [
+                                "+ NUEVA JERSEY"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "visual-caption"
+                      },
+                      "children": [
+                        "UNA MIRADA",
+                        {
+                          "tag": "br",
+                          "attrs": {},
+                          "children": []
+                        },
+                        " DENTRO DE LA APP ",
+                        {
+                          "tag": "svg",
+                          "attrs": {
+                            "aria-hidden": "true"
+                          },
+                          "children": [
+                            {
+                              "tag": "use",
+                              "attrs": {
+                                "href": "#arrow-up-right"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "hero-bottom wrap"
+          },
+          "children": [
+            {
+              "tag": "span",
+              "attrs": {},
+              "children": [
+                "LA APP ES GRATIS. LOS BENEFICIOS SON ITC CLUB."
+              ]
+            },
+            {
+              "tag": "a",
+              "attrs": {
+                "href": "#beneficios",
+                "aria-label": "Seguir a los beneficios"
+              },
+              "children": [
+                "SIGUE EXPLORANDO ",
+                {
+                  "tag": "svg",
+                  "attrs": {
+                    "aria-hidden": "true"
+                  },
+                  "children": [
+                    {
+                      "tag": "use",
+                      "attrs": {
+                        "href": "#arrow-down"
+                      },
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "TickerStrip": {
+      "tag": "div",
+      "attrs": {
+        "class": "word-strip",
+        "aria-label": "Descubre - Disfruta - Repite"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "ticker-track",
+            "aria-hidden": "true"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "ticker-group"
+              },
+              "children": [
+                {
+                  "tag": "span",
+                  "attrs": {},
+                  "children": [
+                    "DESCUBRE"
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "ticker-dash"
+                  },
+                  "children": [
+                    "-"
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "attrs": {},
+                  "children": [
+                    "DISFRUTA"
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "ticker-dash"
+                  },
+                  "children": [
+                    "-"
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "attrs": {},
+                  "children": [
+                    "REPITE"
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "ticker-dash"
+                  },
+                  "children": [
+                    "-"
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "attrs": {},
+                  "children": [
+                    "DESCUBRE"
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "ticker-dash"
+                  },
+                  "children": [
+                    "-"
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "attrs": {},
+                  "children": [
+                    "DISFRUTA"
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "ticker-dash"
+                  },
+                  "children": [
+                    "-"
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "attrs": {},
+                  "children": [
+                    "REPITE"
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "ticker-dash"
+                  },
+                  "children": [
+                    "-"
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "ticker-group"
+              },
+              "children": [
+                {
+                  "tag": "span",
+                  "attrs": {},
+                  "children": [
+                    "DESCUBRE"
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "ticker-dash"
+                  },
+                  "children": [
+                    "-"
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "attrs": {},
+                  "children": [
+                    "DISFRUTA"
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "ticker-dash"
+                  },
+                  "children": [
+                    "-"
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "attrs": {},
+                  "children": [
+                    "REPITE"
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "ticker-dash"
+                  },
+                  "children": [
+                    "-"
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "attrs": {},
+                  "children": [
+                    "DESCUBRE"
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "ticker-dash"
+                  },
+                  "children": [
+                    "-"
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "attrs": {},
+                  "children": [
+                    "DISFRUTA"
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "ticker-dash"
+                  },
+                  "children": [
+                    "-"
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "attrs": {},
+                  "children": [
+                    "REPITE"
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "ticker-dash"
+                  },
+                  "children": [
+                    "-"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "BenefitsSection": {
+      "tag": "section",
+      "attrs": {
+        "class": "benefits-section section wrap",
+        "id": "beneficios",
+        "aria-labelledby": "benefits-title"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "section-heading benefits-heading"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {},
+              "children": [
+                {
+                  "tag": "p",
+                  "attrs": {
+                    "class": "eyebrow"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "section-number"
+                      },
+                      "children": [
+                        "01"
+                      ]
+                    },
+                    " BENEFICIOS DE ITC CLUB"
+                  ]
+                },
+                {
+                  "tag": "h2",
+                  "attrs": {
+                    "id": "benefits-title"
+                  },
+                  "children": [
+                    "LAS GANAS DE SALIR.",
+                    {
+                      "tag": "br",
+                      "attrs": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "accent"
+                      },
+                      "children": [
+                        "UN MOTIVO MÁS."
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "aside",
+              "attrs": {
+                "class": "section-brand"
+              },
+              "children": [
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "brand-seal"
+                  },
+                  "children": [
+                    {
+                      "tag": "img",
+                      "attrs": {
+                        "src": "assets/itc-club-logo.png",
+                        "alt": "ITC Club",
+                        "width": "1536",
+                        "height": "1024",
+                        "loading": "lazy"
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "Comer rico. Descubrir lugares.",
+                    {
+                      "tag": "br",
+                      "attrs": {},
+                      "children": []
+                    },
+                    " Regalarte un momento.",
+                    {
+                      "tag": "br",
+                      "attrs": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "strong",
+                      "attrs": {},
+                      "children": [
+                        "Con ventajas por ser ITC Club."
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attrs": {
+            "class": "examples-label"
+          },
+          "children": [
+            {
+              "tag": "span",
+              "attrs": {
+                "class": "small-line",
+                "aria-hidden": "true"
+              },
+              "children": []
+            },
+            " ALGUNOS BENEFICIOS PARA TUS PRÓXIMOS PLANES"
+          ]
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "benefit-grid"
+          },
+          "children": [
+            {
+              "tag": "article",
+              "attrs": {
+                "class": "benefit-card empanadas-card"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "benefit-card-top"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "small-label"
+                      },
+                      "children": [
+                        "COMIDA + BUENOS PLANES"
+                      ]
+                    },
+                    {
+                      "tag": "svg",
+                      "attrs": {
+                        "aria-hidden": "true"
+                      },
+                      "children": [
+                        {
+                          "tag": "use",
+                          "attrs": {
+                            "href": "#fork"
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "offer-value offer-three"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {},
+                      "children": [
+                        "3"
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "offer-times"
+                      },
+                      "children": [
+                        "×"
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "attrs": {},
+                      "children": [
+                        "2"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "benefit-card-content"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "card-location"
+                      },
+                      "children": [
+                        {
+                          "tag": "svg",
+                          "attrs": {
+                            "aria-hidden": "true"
+                          },
+                          "children": [
+                            {
+                              "tag": "use",
+                              "attrs": {
+                                "href": "#pin"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        " COLUMBUS CIRCLE · NYC"
+                      ]
+                    },
+                    {
+                      "tag": "h3",
+                      "attrs": {},
+                      "children": [
+                        "EL PLAN LLEVA",
+                        {
+                          "tag": "br",
+                          "attrs": {},
+                          "children": []
+                        },
+                        " EMPANADAS."
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "En Criollas, elige tres empanadas individuales y paga dos."
+                      ]
+                    },
+                    {
+                      "tag": "button",
+                      "attrs": {
+                        "class": "card-detail",
+                        "data-benefit": "criollas"
+                      },
+                      "children": [
+                        "Conoce el beneficio ",
+                        {
+                          "tag": "span",
+                          "attrs": {
+                            "class": "round-arrow",
+                            "aria-hidden": "true"
+                          },
+                          "children": [
+                            "↗"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "card-brand-name"
+                  },
+                  "children": [
+                    "CRIOLLAS"
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "article",
+              "attrs": {
+                "class": "benefit-card beauty-card"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "benefit-card-top"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "small-label"
+                      },
+                      "children": [
+                        "BIENESTAR + BELLEZA"
+                      ]
+                    },
+                    {
+                      "tag": "svg",
+                      "attrs": {
+                        "aria-hidden": "true"
+                      },
+                      "children": [
+                        {
+                          "tag": "use",
+                          "attrs": {
+                            "href": "#care"
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "offer-value"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "offer-digits"
+                      },
+                      "children": [
+                        "15"
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "offer-percent"
+                      },
+                      "children": [
+                        "%"
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "offer-off"
+                      },
+                      "children": [
+                        "OFF"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "benefit-card-content"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "card-location"
+                      },
+                      "children": [
+                        {
+                          "tag": "svg",
+                          "attrs": {
+                            "aria-hidden": "true"
+                          },
+                          "children": [
+                            {
+                              "tag": "use",
+                              "attrs": {
+                                "href": "#pin"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        " QUEENS · NUEVA YORK"
+                      ]
+                    },
+                    {
+                      "tag": "h3",
+                      "attrs": {},
+                      "children": [
+                        "UN MOMENTO.",
+                        {
+                          "tag": "br",
+                          "attrs": {},
+                          "children": []
+                        },
+                        " SOLO PARA TI."
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "15% de descuento en servicios de belleza elegibles en Beauty by Jen Oficial."
+                      ]
+                    },
+                    {
+                      "tag": "button",
+                      "attrs": {
+                        "class": "card-detail",
+                        "data-benefit": "beauty"
+                      },
+                      "children": [
+                        "Conoce el beneficio ",
+                        {
+                          "tag": "span",
+                          "attrs": {
+                            "class": "round-arrow",
+                            "aria-hidden": "true"
+                          },
+                          "children": [
+                            "↗"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "card-brand-name"
+                  },
+                  "children": [
+                    "BEAUTY BY JEN OFICIAL"
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "article",
+              "attrs": {
+                "class": "benefit-card experience-card"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "benefit-card-top"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "small-label"
+                      },
+                      "children": [
+                        "ATRACCIONES + EXPERIENCIAS"
+                      ]
+                    },
+                    {
+                      "tag": "svg",
+                      "attrs": {
+                        "aria-hidden": "true"
+                      },
+                      "children": [
+                        {
+                          "tag": "use",
+                          "attrs": {
+                            "href": "#ticket"
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "offer-value"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "offer-digits"
+                      },
+                      "children": [
+                        "15"
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "offer-percent"
+                      },
+                      "children": [
+                        "%"
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "offer-off"
+                      },
+                      "children": [
+                        "OFF"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "benefit-card-content"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "card-location"
+                      },
+                      "children": [
+                        {
+                          "tag": "svg",
+                          "attrs": {
+                            "aria-hidden": "true"
+                          },
+                          "children": [
+                            {
+                              "tag": "use",
+                              "attrs": {
+                                "href": "#pin"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        " NUEVA YORK"
+                      ]
+                    },
+                    {
+                      "tag": "h3",
+                      "attrs": {},
+                      "children": [
+                        "NUEVA YORK.",
+                        {
+                          "tag": "br",
+                          "attrs": {},
+                          "children": []
+                        },
+                        " DESDE LAS ALTURAS."
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        "15% de descuento por persona en RiseNY. Una experiencia para ver la ciudad de otra manera."
+                      ]
+                    },
+                    {
+                      "tag": "button",
+                      "attrs": {
+                        "class": "card-detail",
+                        "data-benefit": "riseny"
+                      },
+                      "children": [
+                        "Conoce el beneficio ",
+                        {
+                          "tag": "span",
+                          "attrs": {
+                            "class": "round-arrow",
+                            "aria-hidden": "true"
+                          },
+                          "children": [
+                            "↗"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "card-brand-name"
+                  },
+                  "children": [
+                    "RISENY"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attrs": {
+            "class": "benefit-disclaimer"
+          },
+          "children": [
+            "Los beneficios de ITC Club requieren una membresía ITC Club activa y están sujetos a las condiciones, vigencia y disponibilidad de cada establecimiento."
+          ]
+        }
+      ]
+    },
+    "StatementSection": {
+      "tag": "section",
+      "attrs": {
+        "class": "statement-band",
+        "aria-label": "Menos algún día, más vamos"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "wrap"
+          },
+          "children": [
+            {
+              "tag": "span",
+              "attrs": {
+                "class": "statement-small"
+              },
+              "children": [
+                "ESE PLAN NO SE VA A HACER SOLO."
+              ]
+            },
+            {
+              "tag": "p",
+              "attrs": {},
+              "children": [
+                "MENOS ",
+                {
+                  "tag": "span",
+                  "attrs": {},
+                  "children": [
+                    "“ALGÚN DÍA”."
+                  ]
+                },
+                {
+                  "tag": "br",
+                  "attrs": {},
+                  "children": []
+                },
+                " MÁS ",
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "statement-filled"
+                  },
+                  "children": [
+                    "“VAMOS”."
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "svg",
+              "attrs": {
+                "class": "statement-arrow",
+                "aria-hidden": "true"
+              },
+              "children": [
+                {
+                  "tag": "use",
+                  "attrs": {
+                    "href": "#arrow-up-right"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "AppSection": {
+      "tag": "section",
+      "attrs": {
+        "class": "app-section section",
+        "id": "la-app",
+        "aria-labelledby": "app-title"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "wrap app-grid"
+          },
+          "children": [
+            {
+              "tag": "figure",
+              "attrs": {
+                "class": "app-visual"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "app-phone-stage"
+                  },
+                  "children": [
+                    {
+                      "tag": "button",
+                      "attrs": {
+                        "class": "phone explore-phone",
+                        "data-preview": "assets/app-explore.png",
+                        "aria-label": "Ampliar la pantalla de recomendaciones y actualidad de la app"
+                      },
+                      "children": [
+                        {
+                          "tag": "span",
+                          "attrs": {
+                            "class": "phone-screen"
+                          },
+                          "children": [
+                            {
+                              "tag": "img",
+                              "attrs": {
+                                "src": "assets/app-explore.png",
+                                "alt": "Pantalla real de Insight The City con recomendaciones, planes, actualidad y lugares guardados",
+                                "width": "944",
+                                "height": "2048",
+                                "loading": "lazy"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "figcaption",
+                  "attrs": {
+                    "class": "app-visual-footer"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "free-label"
+                      },
+                      "children": [
+                        "LA APP",
+                        {
+                          "tag": "br",
+                          "attrs": {},
+                          "children": []
+                        },
+                        {
+                          "tag": "strong",
+                          "attrs": {},
+                          "children": [
+                            "ES GRATIS."
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {
+                        "class": "screen-caption"
+                      },
+                      "children": [
+                        "CAPTURAS REALES",
+                        {
+                          "tag": "br",
+                          "attrs": {},
+                          "children": []
+                        },
+                        " DE INSIGHT THE CITY"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "app-content"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attrs": {
+                    "class": "eyebrow"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "section-number"
+                      },
+                      "children": [
+                        "02"
+                      ]
+                    },
+                    " TU CIUDAD. A TU MANERA."
+                  ]
+                },
+                {
+                  "tag": "h2",
+                  "attrs": {
+                    "id": "app-title"
+                  },
+                  "children": [
+                    "NUEVA YORK.",
+                    {
+                      "tag": "br",
+                      "attrs": {},
+                      "children": []
+                    },
+                    " NUEVA JERSEY.",
+                    {
+                      "tag": "br",
+                      "attrs": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "highlight"
+                      },
+                      "children": [
+                        "EN TU BOLSILLO."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attrs": {
+                    "class": "app-lead"
+                  },
+                  "children": [
+                    "Para cuando tienes un plan.",
+                    {
+                      "tag": "br",
+                      "attrs": {},
+                      "children": []
+                    },
+                    " Y para cuando necesitas uno."
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "feature-options",
+                    "role": "group",
+                    "aria-label": "Explorar funciones de la app"
+                  },
+                  "children": [
+                    {
+                      "tag": "button",
+                      "attrs": {
+                        "class": "feature-option",
+                        "aria-pressed": "true",
+                        "data-feature": "descubre"
+                      },
+                      "children": [
+                        {
+                          "tag": "svg",
+                          "attrs": {
+                            "aria-hidden": "true"
+                          },
+                          "children": [
+                            {
+                              "tag": "use",
+                              "attrs": {
+                                "href": "#compass"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "span",
+                          "attrs": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attrs": {},
+                              "children": [
+                                "DESCUBRE"
+                              ]
+                            },
+                            {
+                              "tag": "span",
+                              "attrs": {},
+                              "children": [
+                                "Encuentra dónde comer, qué visitar y qué hacer."
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "span",
+                          "attrs": {
+                            "class": "feature-sign",
+                            "aria-hidden": "true"
+                          },
+                          "children": [
+                            "↗"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "button",
+                      "attrs": {
+                        "class": "feature-option",
+                        "aria-pressed": "false",
+                        "data-feature": "guarda"
+                      },
+                      "children": [
+                        {
+                          "tag": "svg",
+                          "attrs": {
+                            "aria-hidden": "true"
+                          },
+                          "children": [
+                            {
+                              "tag": "use",
+                              "attrs": {
+                                "href": "#bookmark"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "span",
+                          "attrs": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attrs": {},
+                              "children": [
+                                "GUARDA"
+                              ]
+                            },
+                            {
+                              "tag": "span",
+                              "attrs": {},
+                              "children": [
+                                "Ten a mano los lugares y planes que quieres vivir."
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "span",
+                          "attrs": {
+                            "class": "feature-sign",
+                            "aria-hidden": "true"
+                          },
+                          "children": [
+                            "↗"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "button",
+                      "attrs": {
+                        "class": "feature-option",
+                        "aria-pressed": "false",
+                        "data-feature": "enterate"
+                      },
+                      "children": [
+                        {
+                          "tag": "svg",
+                          "attrs": {
+                            "aria-hidden": "true"
+                          },
+                          "children": [
+                            {
+                              "tag": "use",
+                              "attrs": {
+                                "href": "#news"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "span",
+                          "attrs": {},
+                          "children": [
+                            {
+                              "tag": "strong",
+                              "attrs": {},
+                              "children": [
+                                "ENTÉRATE"
+                              ]
+                            },
+                            {
+                              "tag": "span",
+                              "attrs": {},
+                              "children": [
+                                "Recomendaciones y actualidad útil para moverte por la ciudad."
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "span",
+                          "attrs": {
+                            "class": "feature-sign",
+                            "aria-hidden": "true"
+                          },
+                          "children": [
+                            "↗"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attrs": {
+                    "class": "feature-note",
+                    "id": "feature-note",
+                    "aria-live": "polite"
+                  },
+                  "children": [
+                    "Restaurantes, atracciones, cultura, compras, bienestar y nuevas experiencias por descubrir."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "HowItWorksSection": {
+      "tag": "section",
+      "attrs": {
+        "class": "how-section section wrap",
+        "id": "como-funciona",
+        "aria-labelledby": "how-title"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "section-heading"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {},
+              "children": [
+                {
+                  "tag": "p",
+                  "attrs": {
+                    "class": "eyebrow"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "section-number"
+                      },
+                      "children": [
+                        "03"
+                      ]
+                    },
+                    " DEL PLAN A LA EXPERIENCIA"
+                  ]
+                },
+                {
+                  "tag": "h2",
+                  "attrs": {
+                    "id": "how-title"
+                  },
+                  "children": [
+                    "ASÍ DE ",
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "accent"
+                      },
+                      "children": [
+                        "FÁCIL."
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attrs": {
+                "class": "section-intro"
+              },
+              "children": [
+                "Tu próximo plan empieza",
+                {
+                  "tag": "br",
+                  "attrs": {},
+                  "children": []
+                },
+                " con unos pocos pasos."
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "steps"
+          },
+          "children": [
+            {
+              "tag": "article",
+              "attrs": {
+                "class": "step"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "step-top"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {},
+                      "children": [
+                        "01"
+                      ]
+                    },
+                    {
+                      "tag": "svg",
+                      "attrs": {
+                        "aria-hidden": "true"
+                      },
+                      "children": [
+                        {
+                          "tag": "use",
+                          "attrs": {
+                            "href": "#download"
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "h3",
+                  "attrs": {},
+                  "children": [
+                    "DESCARGA.",
+                    {
+                      "tag": "br",
+                      "attrs": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "span",
+                      "attrs": {},
+                      "children": [
+                        "ES GRATIS."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "Ten Insight The City en tu teléfono y empieza a descubrir Nueva York y Nueva Jersey."
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "article",
+              "attrs": {
+                "class": "step"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "step-top"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {},
+                      "children": [
+                        "02"
+                      ]
+                    },
+                    {
+                      "tag": "svg",
+                      "attrs": {
+                        "aria-hidden": "true"
+                      },
+                      "children": [
+                        {
+                          "tag": "use",
+                          "attrs": {
+                            "href": "#compass"
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "h3",
+                  "attrs": {},
+                  "children": [
+                    "ENCUENTRA",
+                    {
+                      "tag": "br",
+                      "attrs": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "span",
+                      "attrs": {},
+                      "children": [
+                        "TU PLAN."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "Explora lugares y experiencias. Consulta el beneficio y las condiciones del establecimiento."
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "article",
+              "attrs": {
+                "class": "step"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "step-top"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {},
+                      "children": [
+                        "03"
+                      ]
+                    },
+                    {
+                      "tag": "svg",
+                      "attrs": {
+                        "aria-hidden": "true"
+                      },
+                      "children": [
+                        {
+                          "tag": "use",
+                          "attrs": {
+                            "href": "#ticket"
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "h3",
+                  "attrs": {},
+                  "children": [
+                    "ACTIVA ITC CLUB.",
+                    {
+                      "tag": "br",
+                      "attrs": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "span",
+                      "attrs": {},
+                      "children": [
+                        "Y DISFRUTA."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "Con tu membresía activa, sigue las indicaciones para utilizarlo durante tu visita o al reservar."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "YorkiSection": {
+      "tag": "section",
+      "attrs": {
+        "class": "yorki-section section",
+        "id": "yorki",
+        "aria-labelledby": "yorki-title"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "wrap yorki-grid"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "yorki-copy"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attrs": {
+                    "class": "eyebrow"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "section-number"
+                      },
+                      "children": [
+                        "04"
+                      ]
+                    },
+                    " CONOCE A YORKI"
+                  ]
+                },
+                {
+                  "tag": "h2",
+                  "attrs": {
+                    "id": "yorki-title"
+                  },
+                  "children": [
+                    "¿Y HOY",
+                    {
+                      "tag": "br",
+                      "attrs": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "accent"
+                      },
+                      "children": [
+                        "A DÓNDE?"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "Pregúntale a Yorki, el asistente con inteligencia artificial de Insight The City. Cuéntale qué estás buscando y encuentra ideas para tu próxima salida."
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "yorki-signature"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "yorki-avatar",
+                        "aria-hidden": "true"
+                      },
+                      "children": [
+                        {
+                          "tag": "svg",
+                          "attrs": {
+                            "aria-hidden": "true"
+                          },
+                          "children": [
+                            {
+                              "tag": "use",
+                              "attrs": {
+                                "href": "#chat"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "UN POCO DE AYUDA.",
+                    {
+                      "tag": "br",
+                      "attrs": {},
+                      "children": []
+                    },
+                    " MUCHAS GANAS DE EXPLORAR."
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "chat-demo"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "chat-header"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "yorki-avatar"
+                      },
+                      "children": [
+                        {
+                          "tag": "svg",
+                          "attrs": {
+                            "aria-hidden": "true"
+                          },
+                          "children": [
+                            {
+                              "tag": "use",
+                              "attrs": {
+                                "href": "#chat"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "strong",
+                          "attrs": {},
+                          "children": [
+                            "Yorki"
+                          ]
+                        },
+                        {
+                          "tag": "span",
+                          "attrs": {},
+                          "children": [
+                            "Tu asistente para explorar"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "example-pill"
+                      },
+                      "children": [
+                        "EJEMPLO"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "chat-body",
+                    "aria-live": "polite"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attrs": {
+                        "class": "chat-message assistant-message"
+                      },
+                      "children": [
+                        "¡Hola! 👋 ¿Qué plan tienes en mente?"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {
+                        "class": "chat-message user-message",
+                        "id": "chat-question"
+                      },
+                      "children": [
+                        "Una salida en pareja"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {
+                        "class": "chat-message assistant-message",
+                        "id": "chat-answer"
+                      },
+                      "children": [
+                        "¿Una cena o una experiencia para compartir? Cuéntame en qué zona quieres salir y qué te provoca hacer."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "chat-prompts",
+                    "role": "group",
+                    "aria-label": "Ver ejemplos de preguntas a Yorki"
+                  },
+                  "children": [
+                    {
+                      "tag": "button",
+                      "attrs": {
+                        "aria-pressed": "true",
+                        "data-prompt": "pareja"
+                      },
+                      "children": [
+                        "En pareja ↗"
+                      ]
+                    },
+                    {
+                      "tag": "button",
+                      "attrs": {
+                        "aria-pressed": "false",
+                        "data-prompt": "nj"
+                      },
+                      "children": [
+                        "Por Nueva Jersey ↗"
+                      ]
+                    },
+                    {
+                      "tag": "button",
+                      "attrs": {
+                        "aria-pressed": "false",
+                        "data-prompt": "cafe"
+                      },
+                      "children": [
+                        "Un café ↗"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attrs": {
+                    "class": "chat-footnote"
+                  },
+                  "children": [
+                    "Ejemplo ilustrativo. La conversación con Yorki tiene lugar en la app."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "MembershipSection": {
+      "tag": "section",
+      "attrs": {
+        "class": "membership-section section wrap",
+        "id": "membresia",
+        "aria-labelledby": "membership-title"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "section-heading"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {},
+              "children": [
+                {
+                  "tag": "p",
+                  "attrs": {
+                    "class": "eyebrow"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "section-number"
+                      },
+                      "children": [
+                        "05"
+                      ]
+                    },
+                    " ELIGE CÓMO DISFRUTARLA"
+                  ]
+                },
+                {
+                  "tag": "h2",
+                  "attrs": {
+                    "id": "membership-title"
+                  },
+                  "children": [
+                    "LA APP ES GRATIS.",
+                    {
+                      "tag": "br",
+                      "attrs": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "accent"
+                      },
+                      "children": [
+                        "ITC CLUB SUMA MÁS."
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attrs": {
+                "class": "section-intro"
+              },
+              "children": [
+                "Empieza explorando.",
+                {
+                  "tag": "br",
+                  "attrs": {},
+                  "children": []
+                },
+                " Súmate al club cuando quieras",
+                {
+                  "tag": "br",
+                  "attrs": {},
+                  "children": []
+                },
+                {
+                  "tag": "strong",
+                  "attrs": {},
+                  "children": [
+                    "aprovechar sus beneficios."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "membership-grid"
+          },
+          "children": [
+            {
+              "tag": "article",
+              "attrs": {
+                "class": "membership-card free-card"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "free-card-top"
+                  },
+                  "children": [
+                    {
+                      "tag": "img",
+                      "attrs": {
+                        "src": "assets/insight-the-city.svg",
+                        "alt": "Insight The City",
+                        "width": "180",
+                        "height": "56",
+                        "loading": "lazy"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "small-label"
+                      },
+                      "children": [
+                        "LA APP"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "h3",
+                  "attrs": {},
+                  "children": [
+                    "DESCUBRIR.",
+                    {
+                      "tag": "br",
+                      "attrs": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "span",
+                      "attrs": {},
+                      "children": [
+                        "GRATIS."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "Encuentra tu próximo plan en Nueva York y Nueva Jersey."
+                  ]
+                },
+                {
+                  "tag": "ul",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "tag": "li",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "svg",
+                          "attrs": {
+                            "aria-hidden": "true"
+                          },
+                          "children": [
+                            {
+                              "tag": "use",
+                              "attrs": {
+                                "href": "#check"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        "Lugares y experiencias por descubrir"
+                      ]
+                    },
+                    {
+                      "tag": "li",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "svg",
+                          "attrs": {
+                            "aria-hidden": "true"
+                          },
+                          "children": [
+                            {
+                              "tag": "use",
+                              "attrs": {
+                                "href": "#check"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        "Recomendaciones y contenido útil"
+                      ]
+                    },
+                    {
+                      "tag": "li",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "svg",
+                          "attrs": {
+                            "aria-hidden": "true"
+                          },
+                          "children": [
+                            {
+                              "tag": "use",
+                              "attrs": {
+                                "href": "#check"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        "Planes para residentes y visitantes"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "plan-footnote"
+                  },
+                  "children": [
+                    "DESCARGA GRATUITA DE LA APP"
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "article",
+              "attrs": {
+                "class": "membership-card club-card"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "club-card-top"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "small-label"
+                      },
+                      "children": [
+                        "MEMBRESÍA",
+                        {
+                          "tag": "br",
+                          "attrs": {},
+                          "children": []
+                        },
+                        " ITC CLUB"
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "brand-seal seal-on-yellow"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "src": "assets/itc-club-logo.png",
+                            "alt": "ITC Club",
+                            "width": "1536",
+                            "height": "1024",
+                            "loading": "lazy"
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "h3",
+                  "attrs": {},
+                  "children": [
+                    "BENEFICIOS.",
+                    {
+                      "tag": "br",
+                      "attrs": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "span",
+                      "attrs": {},
+                      "children": [
+                        "EXCLUSIVOS."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "Disfruta ventajas reservadas para miembros en establecimientos participantes."
+                  ]
+                },
+                {
+                  "tag": "ul",
+                  "attrs": {},
+                  "children": [
+                    {
+                      "tag": "li",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "svg",
+                          "attrs": {
+                            "aria-hidden": "true"
+                          },
+                          "children": [
+                            {
+                              "tag": "use",
+                              "attrs": {
+                                "href": "#check"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        "Descuentos y ventajas para tus salidas"
+                      ]
+                    },
+                    {
+                      "tag": "li",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "svg",
+                          "attrs": {
+                            "aria-hidden": "true"
+                          },
+                          "children": [
+                            {
+                              "tag": "use",
+                              "attrs": {
+                                "href": "#check"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        "Beneficios en distintas categorías"
+                      ]
+                    },
+                    {
+                      "tag": "li",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "svg",
+                          "attrs": {
+                            "aria-hidden": "true"
+                          },
+                          "children": [
+                            {
+                              "tag": "use",
+                              "attrs": {
+                                "href": "#check"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        "Condiciones y modo de uso en cada perfil"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "membership-bottom"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {},
+                      "children": [
+                        "MEMBRESÍA MENSUAL",
+                        {
+                          "tag": "br",
+                          "attrs": {},
+                          "children": []
+                        },
+                        {
+                          "tag": "strong",
+                          "attrs": {},
+                          "children": [
+                            "OPCIONAL Y DE PAGO"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "href": "#beneficios",
+                        "class": "round-arrow",
+                        "aria-label": "Conocer los beneficios de ITC Club"
+                      },
+                      "children": [
+                        "↗"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "CommunitySection": {
+      "tag": "section",
+      "attrs": {
+        "class": "community-section",
+        "aria-labelledby": "community-title"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "wrap community-inner"
+          },
+          "children": [
+            {
+              "tag": "img",
+              "attrs": {
+                "src": "assets/insight-the-city.svg",
+                "alt": "Insight The City",
+                "width": "210",
+                "height": "68",
+                "loading": "lazy"
+              },
+              "children": []
+            },
+            {
+              "tag": "div",
+              "attrs": {},
+              "children": [
+                {
+                  "tag": "p",
+                  "attrs": {
+                    "class": "eyebrow"
+                  },
+                  "children": [
+                    "LA CIUDAD NOS CONECTA"
+                  ]
+                },
+                {
+                  "tag": "h2",
+                  "attrs": {
+                    "id": "community-title"
+                  },
+                  "children": [
+                    "NUEVA YORK.",
+                    {
+                      "tag": "br",
+                      "attrs": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "span",
+                      "attrs": {},
+                      "children": [
+                        "EN NUESTRO IDIOMA."
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "community-copy"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "Somos Insight The City. Compartimos planes, experiencias e información útil para disfrutar Nueva York y Nueva Jersey."
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "Ahora, llevamos esa mirada a una app. ",
+                    {
+                      "tag": "strong",
+                      "attrs": {},
+                      "children": [
+                        "Para seguir descubriendo juntos."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://insightthecity.com",
+                    "target": "_blank",
+                    "rel": "noopener noreferrer",
+                    "class": "text-link"
+                  },
+                  "children": [
+                    "Conoce Insight The City ",
+                    {
+                      "tag": "svg",
+                      "attrs": {
+                        "aria-hidden": "true"
+                      },
+                      "children": [
+                        {
+                          "tag": "use",
+                          "attrs": {
+                            "href": "#arrow-up-right"
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "FaqSection": {
+      "tag": "section",
+      "attrs": {
+        "class": "faq-section section wrap",
+        "id": "preguntas",
+        "aria-labelledby": "faq-title"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attrs": {},
+          "children": [
+            {
+              "tag": "p",
+              "attrs": {
+                "class": "eyebrow"
+              },
+              "children": [
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "section-number"
+                  },
+                  "children": [
+                    "06"
+                  ]
+                },
+                " ANTES DE DECIR VAMOS"
+              ]
+            },
+            {
+              "tag": "h2",
+              "attrs": {
+                "id": "faq-title"
+              },
+              "children": [
+                "¿ALGUNA",
+                {
+                  "tag": "br",
+                  "attrs": {},
+                  "children": []
+                },
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "accent"
+                  },
+                  "children": [
+                    "PREGUNTA?"
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attrs": {
+                "class": "faq-contact"
+              },
+              "children": [
+                "Estamos aquí para ayudarte.",
+                {
+                  "tag": "br",
+                  "attrs": {},
+                  "children": []
+                },
+                {
+                  "tag": "a",
+                  "attrs": {
+                    "href": "mailto:info@insightthecity.com"
+                  },
+                  "children": [
+                    "info@insightthecity.com ↗"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "faq-list"
+          },
+          "children": [
+            {
+              "tag": "details",
+              "attrs": {},
+              "children": [
+                {
+                  "tag": "summary",
+                  "attrs": {},
+                  "children": [
+                    "¿La app es gratuita?",
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "aria-hidden": "true"
+                      },
+                      "children": [
+                        "+"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "Sí. La descarga de Insight The City es gratuita. ITC Club es una membresía opcional de pago que permite acceder a beneficios exclusivos en establecimientos y experiencias participantes."
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "details",
+              "attrs": {},
+              "children": [
+                {
+                  "tag": "summary",
+                  "attrs": {},
+                  "children": [
+                    "¿Necesito ITC Club para explorar?",
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "aria-hidden": "true"
+                      },
+                      "children": [
+                        "+"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "Puedes descubrir el contenido y los lugares de la app sin contratar la membresía. Para obtener los beneficios exclusivos de ITC Club necesitas una membresía activa."
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "details",
+              "attrs": {},
+              "children": [
+                {
+                  "tag": "summary",
+                  "attrs": {},
+                  "children": [
+                    "¿Cómo utilizo un beneficio?",
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "aria-hidden": "true"
+                      },
+                      "children": [
+                        "+"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "Consulta el perfil del establecimiento: allí encontrarás qué incluye, sus condiciones y las indicaciones para utilizarlo. Según el beneficio, podrás obtenerlo durante tu visita o a través del enlace indicado para reservar."
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "details",
+              "attrs": {},
+              "children": [
+                {
+                  "tag": "summary",
+                  "attrs": {},
+                  "children": [
+                    "¿Puedo usarla si vengo de visita?",
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "aria-hidden": "true"
+                      },
+                      "children": [
+                        "+"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "Sí. La app está pensada tanto para quienes viven aquí como para quienes visitan Nueva York y Nueva Jersey. Los beneficios se utilizan en los establecimientos y experiencias participantes, según sus condiciones."
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "details",
+              "attrs": {},
+              "children": [
+                {
+                  "tag": "summary",
+                  "attrs": {},
+                  "children": [
+                    "¿Hay planes en Nueva Jersey?",
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "aria-hidden": "true"
+                      },
+                      "children": [
+                        "+"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "Sí. Insight The City incluye lugares, recomendaciones y experiencias en Nueva York y Nueva Jersey. Puedes consultar la ubicación de cada establecimiento dentro de la app."
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "details",
+              "attrs": {},
+              "children": [
+                {
+                  "tag": "summary",
+                  "attrs": {},
+                  "children": [
+                    "¿Puedo cancelar mi membresía?",
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "aria-hidden": "true"
+                      },
+                      "children": [
+                        "+"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "Sí. Puedes cancelar la renovación de tu membresía. El acceso continúa hasta el final del período vigente."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "ClosingSection": {
+      "tag": "section",
+      "attrs": {
+        "class": "closing-section",
+        "id": "descubre",
+        "aria-labelledby": "closing-title"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "wrap closing-inner"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "closing-copy"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attrs": {
+                    "class": "eyebrow"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "status-dot",
+                        "aria-hidden": "true"
+                      },
+                      "children": []
+                    },
+                    " TUS PLANES. TUS BENEFICIOS."
+                  ]
+                },
+                {
+                  "tag": "h2",
+                  "attrs": {
+                    "id": "closing-title"
+                  },
+                  "children": [
+                    "LA CIUDAD",
+                    {
+                      "tag": "br",
+                      "attrs": {},
+                      "children": []
+                    },
+                    " TE ESPERA.",
+                    {
+                      "tag": "br",
+                      "attrs": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "accent"
+                      },
+                      "children": [
+                        "SAL A VIVIRLA."
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "Encuentra dónde ir. Descubre qué hacer.",
+                    {
+                      "tag": "br",
+                      "attrs": {},
+                      "children": []
+                    },
+                    " Y dale más a cada salida con ITC Club."
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attrs": {
+                    "class": "closing-actions"
+                  },
+                  "children": [
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "class": "button button-large",
+                        "href": "#la-app"
+                      },
+                      "children": [
+                        "Descubre la app ",
+                        {
+                          "tag": "svg",
+                          "attrs": {
+                            "aria-hidden": "true"
+                          },
+                          "children": [
+                            {
+                              "tag": "use",
+                              "attrs": {
+                                "href": "#arrow-up-right"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "class": "text-link",
+                        "href": "#beneficios"
+                      },
+                      "children": [
+                        "Conoce los beneficios de ITC Club ",
+                        {
+                          "tag": "svg",
+                          "attrs": {
+                            "aria-hidden": "true"
+                          },
+                          "children": [
+                            {
+                              "tag": "use",
+                              "attrs": {
+                                "href": "#arrow-up-right"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "closing-note"
+                  },
+                  "children": [
+                    "Insight The City: app gratuita.",
+                    {
+                      "tag": "br",
+                      "attrs": {},
+                      "children": []
+                    },
+                    " ITC Club: membresía mensual opcional y de pago."
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "figure",
+              "attrs": {
+                "class": "closing-poster"
+              },
+              "children": [
+                {
+                  "tag": "img",
+                  "attrs": {
+                    "src": "assets/itc-club-city.jpg",
+                    "alt": "ITC Club by Insight The City sobre el skyline de Manhattan al atardecer",
+                    "width": "900",
+                    "height": "1600",
+                    "loading": "lazy"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "layout": {
+    "skip-link": {
+      "tag": "a",
+      "attrs": {
+        "class": "skip-link",
+        "href": "#main"
+      },
+      "children": [
+        "Ir al contenido"
+      ]
+    },
+    "reading-progress": {
+      "tag": "div",
+      "attrs": {
+        "class": "reading-progress",
+        "aria-hidden": "true"
+      },
+      "children": []
+    },
+    "header": {
+      "tag": "header",
+      "attrs": {
+        "class": "site-header",
+        "id": "header"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "header-inner"
+          },
+          "children": [
+            {
+              "tag": "a",
+              "attrs": {
+                "href": "#inicio",
+                "class": "brand",
+                "aria-label": "ITC Club · Ir al inicio"
+              },
+              "children": [
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "brand-logo"
+                  },
+                  "children": [
+                    {
+                      "tag": "img",
+                      "attrs": {
+                        "src": "assets/itc-club-logo.png",
+                        "alt": "ITC Club",
+                        "width": "1536",
+                        "height": "1024"
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "brand-by"
+                  },
+                  "children": [
+                    "by ",
+                    {
+                      "tag": "strong",
+                      "attrs": {},
+                      "children": [
+                        "Insight The City"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "nav",
+              "attrs": {
+                "class": "desktop-nav",
+                "aria-label": "Navegación principal"
+              },
+              "children": [
+                {
+                  "tag": "a",
+                  "attrs": {
+                    "href": "#beneficios"
+                  },
+                  "children": [
+                    "Los beneficios"
+                  ]
+                },
+                {
+                  "tag": "a",
+                  "attrs": {
+                    "href": "#la-app"
+                  },
+                  "children": [
+                    "La app"
+                  ]
+                },
+                {
+                  "tag": "a",
+                  "attrs": {
+                    "href": "#membresia"
+                  },
+                  "children": [
+                    "ITC Club"
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "attrs": {
+                "class": "button button-small header-cta",
+                "href": "#la-app"
+              },
+              "children": [
+                "Descubre la app ",
+                {
+                  "tag": "svg",
+                  "attrs": {
+                    "aria-hidden": "true"
+                  },
+                  "children": [
+                    {
+                      "tag": "use",
+                      "attrs": {
+                        "href": "#arrow-up-right"
+                      },
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "button",
+              "attrs": {
+                "class": "menu-toggle",
+                "aria-label": "Abrir menú",
+                "aria-expanded": "false",
+                "aria-controls": "mobile-menu"
+              },
+              "children": [
+                {
+                  "tag": "span",
+                  "attrs": {},
+                  "children": []
+                },
+                {
+                  "tag": "span",
+                  "attrs": {},
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "nav",
+          "attrs": {
+            "class": "mobile-menu",
+            "id": "mobile-menu",
+            "aria-label": "Navegación móvil",
+            "hidden": null
+          },
+          "children": [
+            {
+              "tag": "a",
+              "attrs": {
+                "href": "#beneficios"
+              },
+              "children": [
+                "Los beneficios"
+              ]
+            },
+            {
+              "tag": "a",
+              "attrs": {
+                "href": "#la-app"
+              },
+              "children": [
+                "La app"
+              ]
+            },
+            {
+              "tag": "a",
+              "attrs": {
+                "href": "#membresia"
+              },
+              "children": [
+                "ITC Club"
+              ]
+            },
+            {
+              "tag": "a",
+              "attrs": {
+                "href": "#la-app"
+              },
+              "children": [
+                "Descubre la app ↗"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "site-footer": {
+      "tag": "footer",
+      "attrs": {
+        "class": "site-footer"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "wrap footer-top"
+          },
+          "children": [
+            {
+              "tag": "a",
+              "attrs": {
+                "href": "#inicio",
+                "class": "brand",
+                "aria-label": "ITC Club · Volver al inicio"
+              },
+              "children": [
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "brand-logo"
+                  },
+                  "children": [
+                    {
+                      "tag": "img",
+                      "attrs": {
+                        "src": "assets/itc-club-logo.png",
+                        "alt": "ITC Club",
+                        "width": "1536",
+                        "height": "1024",
+                        "loading": "lazy"
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "brand-by"
+                  },
+                  "children": [
+                    "by ",
+                    {
+                      "tag": "strong",
+                      "attrs": {},
+                      "children": [
+                        "Insight The City"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attrs": {},
+              "children": [
+                "NUEVA YORK + NUEVA JERSEY.",
+                {
+                  "tag": "br",
+                  "attrs": {},
+                  "children": []
+                },
+                {
+                  "tag": "strong",
+                  "attrs": {},
+                  "children": [
+                    "MUCHO POR DESCUBRIR."
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "attrs": {
+                "class": "back-top",
+                "href": "#inicio"
+              },
+              "children": [
+                "VOLVER ARRIBA ",
+                {
+                  "tag": "svg",
+                  "attrs": {
+                    "aria-hidden": "true"
+                  },
+                  "children": [
+                    {
+                      "tag": "use",
+                      "attrs": {
+                        "href": "#arrow-up-right"
+                      },
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "wrap footer-bottom"
+          },
+          "children": [
+            {
+              "tag": "span",
+              "attrs": {},
+              "children": [
+                "© 2026 Eventland LLC. Todos los derechos reservados."
+              ]
+            },
+            {
+              "tag": "div",
+              "attrs": {},
+              "children": [
+                {
+                  "tag": "a",
+                  "attrs": {
+                    "href": "https://insightthecity.com",
+                    "target": "_blank",
+                    "rel": "noopener noreferrer"
+                  },
+                  "children": [
+                    "Insight The City ↗"
+                  ]
+                },
+                {
+                  "tag": "a",
+                  "attrs": {
+                    "href": "mailto:info@insightthecity.com"
+                  },
+                  "children": [
+                    "Soporte ↗"
+                  ]
+                },
+                {
+                  "tag": "button",
+                  "attrs": {
+                    "data-conditions": null
+                  },
+                  "children": [
+                    "Condiciones de los beneficios"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mobile-cta": {
+      "tag": "div",
+      "attrs": {
+        "class": "mobile-cta",
+        "id": "mobile-cta"
+      },
+      "children": [
+        {
+          "tag": "span",
+          "attrs": {},
+          "children": [
+            "LA APP ES GRATIS.",
+            {
+              "tag": "br",
+              "attrs": {},
+              "children": []
+            },
+            {
+              "tag": "strong",
+              "attrs": {},
+              "children": [
+                "LOS BENEFICIOS SON ITC CLUB."
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "a",
+          "attrs": {
+            "class": "button button-small",
+            "href": "#la-app"
+          },
+          "children": [
+            "Descubre la app ↗"
+          ]
+        }
+      ]
+    },
+    "benefit-dialog": {
+      "tag": "dialog",
+      "attrs": {
+        "class": "benefit-dialog",
+        "id": "benefit-dialog",
+        "aria-labelledby": "dialog-title"
+      },
+      "children": [
+        {
+          "tag": "button",
+          "attrs": {
+            "class": "dialog-close",
+            "aria-label": "Cerrar detalle"
+          },
+          "children": [
+            "×"
+          ]
+        },
+        {
+          "tag": "span",
+          "attrs": {
+            "class": "eyebrow",
+            "id": "dialog-category"
+          },
+          "children": []
+        },
+        {
+          "tag": "h2",
+          "attrs": {
+            "id": "dialog-title"
+          },
+          "children": []
+        },
+        {
+          "tag": "p",
+          "attrs": {
+            "class": "dialog-highlight",
+            "id": "dialog-highlight"
+          },
+          "children": []
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "id": "dialog-content"
+          },
+          "children": []
+        },
+        {
+          "tag": "a",
+          "attrs": {
+            "class": "button",
+            "href": "#la-app",
+            "id": "dialog-cta"
+          },
+          "children": [
+            "Descubre la app ",
+            {
+              "tag": "svg",
+              "attrs": {
+                "aria-hidden": "true"
+              },
+              "children": [
+                {
+                  "tag": "use",
+                  "attrs": {
+                    "href": "#arrow-up-right"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "screen-dialog": {
+      "tag": "dialog",
+      "attrs": {
+        "class": "screen-dialog",
+        "id": "screen-dialog",
+        "aria-label": "Captura de pantalla ampliada"
+      },
+      "children": [
+        {
+          "tag": "button",
+          "attrs": {
+            "class": "dialog-close",
+            "aria-label": "Cerrar captura"
+          },
+          "children": [
+            "×"
+          ]
+        },
+        {
+          "tag": "img",
+          "attrs": {
+            "alt": "Captura ampliada de la app Insight The City",
+            "id": "screen-dialog-image"
+          },
+          "children": []
+        }
+      ]
+    },
+    "svg-definitions": {
+      "tag": "svg",
+      "attrs": {
+        "class": "svg-definitions",
+        "xmlns": "http://www.w3.org/2000/svg",
+        "aria-hidden": "true"
+      },
+      "children": [
+        {
+          "tag": "defs",
+          "attrs": {},
+          "children": [
+            {
+              "tag": "symbol",
+              "attrs": {
+                "id": "arrow-up-right",
+                "viewbox": "0 0 24 24"
+              },
+              "children": [
+                {
+                  "tag": "path",
+                  "attrs": {
+                    "d": "M5 19 19 5M5 5h14v14"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "symbol",
+              "attrs": {
+                "id": "arrow-down",
+                "viewbox": "0 0 24 24"
+              },
+              "children": [
+                {
+                  "tag": "path",
+                  "attrs": {
+                    "d": "M12 3v18m-7-7 7 7 7-7"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "symbol",
+              "attrs": {
+                "id": "pin",
+                "viewbox": "0 0 24 24"
+              },
+              "children": [
+                {
+                  "tag": "path",
+                  "attrs": {
+                    "d": "M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 1 1 16 0Z"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "circle",
+                  "attrs": {
+                    "cx": "12",
+                    "cy": "10",
+                    "r": "2.5"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "symbol",
+              "attrs": {
+                "id": "care",
+                "viewbox": "0 0 24 24"
+              },
+              "children": [
+                {
+                  "tag": "path",
+                  "attrs": {
+                    "d": "M12 21S3 16 3 9a5 5 0 0 1 9-3 5 5 0 0 1 9 3c0 7-9 12-9 12Z"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "symbol",
+              "attrs": {
+                "id": "fork",
+                "viewbox": "0 0 24 24"
+              },
+              "children": [
+                {
+                  "tag": "path",
+                  "attrs": {
+                    "d": "M4 2v6c0 4 6 4 6 0V2M7 2v20M20 22V2c-5 2-6 11 0 11"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "symbol",
+              "attrs": {
+                "id": "ticket",
+                "viewbox": "0 0 24 24"
+              },
+              "children": [
+                {
+                  "tag": "path",
+                  "attrs": {
+                    "d": "m3 10 7-7 3 3a3 3 0 0 0 5 5l3 3-7 7-3-3a3 3 0 0 0-5-5l-3-3Z"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "path",
+                  "attrs": {
+                    "d": "m11 8 1.5 1.5m2 2L16 13m1 1 1 1"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "symbol",
+              "attrs": {
+                "id": "compass",
+                "viewbox": "0 0 24 24"
+              },
+              "children": [
+                {
+                  "tag": "circle",
+                  "attrs": {
+                    "cx": "12",
+                    "cy": "12",
+                    "r": "9"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "path",
+                  "attrs": {
+                    "d": "m16 8-2.5 5.5L8 16l2.5-5.5L16 8Z"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "symbol",
+              "attrs": {
+                "id": "bookmark",
+                "viewbox": "0 0 24 24"
+              },
+              "children": [
+                {
+                  "tag": "path",
+                  "attrs": {
+                    "d": "M6 3h12v19l-6-4-6 4V3Z"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "symbol",
+              "attrs": {
+                "id": "news",
+                "viewbox": "0 0 24 24"
+              },
+              "children": [
+                {
+                  "tag": "path",
+                  "attrs": {
+                    "d": "M4 4h14v16H4V4Zm14 4h4v12H4M7 8h7M7 12h7M7 16h4"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "symbol",
+              "attrs": {
+                "id": "download",
+                "viewbox": "0 0 24 24"
+              },
+              "children": [
+                {
+                  "tag": "path",
+                  "attrs": {
+                    "d": "M12 2v13m-5-5 5 5 5-5M3 16v6h18v-6"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "symbol",
+              "attrs": {
+                "id": "check",
+                "viewbox": "0 0 24 24"
+              },
+              "children": [
+                {
+                  "tag": "path",
+                  "attrs": {
+                    "d": "m5 12 4 4L19 6"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "symbol",
+              "attrs": {
+                "id": "chat",
+                "viewbox": "0 0 24 24"
+              },
+              "children": [
+                {
+                  "tag": "path",
+                  "attrs": {
+                    "d": "M21 11a9 9 0 0 1-9 9c-1.5 0-3-.4-4-1l-5 2 1.5-5A9 9 0 1 1 21 11Z"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "circle",
+                  "attrs": {
+                    "cx": "8",
+                    "cy": "11",
+                    "r": ".65"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "circle",
+                  "attrs": {
+                    "cx": "12",
+                    "cy": "11",
+                    "r": ".65"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "circle",
+                  "attrs": {
+                    "cx": "16",
+                    "cy": "11",
+                    "r": ".65"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "heroBackground": {
+    "src": "/videos/hero-sunset-to-night.mp4",
+    "poster": "/assets/manhattan-sunset.jpg"
+  }
+}

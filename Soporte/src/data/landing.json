@@ -1,0 +1,786 @@
+{
+  "navbar": {
+    "tag": "header",
+    "attrs": {
+      "class": "support-header"
+    },
+    "children": [
+      {
+        "tag": "div",
+        "attrs": {
+          "class": "header-inner"
+        },
+        "children": [
+          {
+            "tag": "a",
+            "attrs": {
+              "class": "brand",
+              "href": "/"
+            },
+            "children": [
+              {
+                "tag": "span",
+                "attrs": {
+                  "class": "brand-logo"
+                },
+                "children": [
+                  {
+                    "tag": "img",
+                    "attrs": {
+                      "src": "/assets/itc-club-logo.png",
+                      "alt": "ITC Club"
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "tag": "span",
+                "attrs": {
+                  "class": "brand-by"
+                },
+                "children": [
+                  "by",
+                  {
+                    "tag": "strong",
+                    "attrs": {},
+                    "children": [
+                      "Insight The City"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "nav",
+            "attrs": {
+              "class": "support-nav"
+            },
+            "children": [
+              {
+                "tag": "a",
+                "attrs": {
+                  "class": "text-link",
+                  "href": "/"
+                },
+                "children": [
+                  "Conoce la app ↗"
+                ]
+              },
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "languages",
+                  "aria-label": "Language"
+                },
+                "children": [
+                  {
+                    "tag": "a",
+                    "attrs": {
+                      "href": "/es/soporte/",
+                      "lang": "es",
+                      "aria-current": "page"
+                    },
+                    "children": [
+                      "ES"
+                    ]
+                  },
+                  {
+                    "tag": "a",
+                    "attrs": {
+                      "href": "/en/support/",
+                      "lang": "en"
+                    },
+                    "children": [
+                      "EN"
+                    ]
+                  },
+                  {
+                    "tag": "a",
+                    "attrs": {
+                      "href": "/pt/suporte/",
+                      "lang": "pt"
+                    },
+                    "children": [
+                      "PT"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "hero": {
+    "tag": "section",
+    "attrs": {
+      "class": "support-hero"
+    },
+    "children": [
+      {
+        "tag": "div",
+        "attrs": {
+          "class": "wrap support-hero-grid"
+        },
+        "children": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  {
+                    "tag": "span",
+                    "attrs": {
+                      "class": "status-dot"
+                    },
+                    "children": []
+                  },
+                  "Ayuda y soporte / ITC"
+                ]
+              },
+              {
+                "tag": "h1",
+                "attrs": {},
+                "children": [
+                  "¿NECESITAS",
+                  {
+                    "tag": "span",
+                    "attrs": {},
+                    "children": [
+                      "UNA MANO?"
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "support-intro"
+                },
+                "children": [
+                  "Estamos aquí para ayudarte a disfrutar la app Insight The City y tus beneficios ITC CLUB."
+                ]
+              },
+              {
+                "tag": "a",
+                "attrs": {
+                  "class": "button button-large",
+                  "href": "#contact"
+                },
+                "children": [
+                  "Contactar al equipo ITC ",
+                  {
+                    "tag": "span",
+                    "attrs": {
+                      "aria-hidden": "true"
+                    },
+                    "children": [
+                      "↗"
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "a",
+                "attrs": {
+                  "class": "support-email",
+                  "href": "mailto:info@insightthecity.com"
+                },
+                "children": [
+                  "info@insightthecity.com"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "topics": {
+    "tag": "section",
+    "attrs": {
+      "class": "support-topics wrap"
+    },
+    "children": [
+      {
+        "tag": "div",
+        "attrs": {
+          "class": "support-section-head"
+        },
+        "children": [
+          {
+            "tag": "h2",
+            "attrs": {},
+            "children": [
+              "¿CON QUÉ TE AYUDAMOS?"
+            ]
+          },
+          {
+            "tag": "p",
+            "attrs": {},
+            "children": [
+              "Encuentra tu tema. Cuenta con nosotros."
+            ]
+          }
+        ]
+      },
+      {
+        "tag": "div",
+        "attrs": {
+          "class": "support-cards"
+        },
+        "children": [
+          {
+            "tag": "article",
+            "attrs": {
+              "class": "support-card"
+            },
+            "children": [
+              {
+                "tag": "span",
+                "attrs": {
+                  "class": "num"
+                },
+                "children": [
+                  "01 / ITC"
+                ]
+              },
+              {
+                "tag": "h3",
+                "attrs": {},
+                "children": [
+                  "LA APP Y",
+                  {
+                    "tag": "br",
+                    "attrs": {},
+                    "children": []
+                  },
+                  "TU CUENTA"
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {},
+                "children": [
+                  "Acceso a tu cuenta, errores técnicos y funciones de la app."
+                ]
+              },
+              {
+                "tag": "a",
+                "attrs": {
+                  "href": "mailto:info@insightthecity.com?subject=Ayuda%20con%20la%20app%20%C2%B7%20ITC%20CLUB"
+                },
+                "children": [
+                  "Ayuda con la app ",
+                  {
+                    "tag": "span",
+                    "attrs": {
+                      "aria-hidden": "true"
+                    },
+                    "children": [
+                      "↗"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "article",
+            "attrs": {
+              "class": "support-card"
+            },
+            "children": [
+              {
+                "tag": "span",
+                "attrs": {
+                  "class": "num"
+                },
+                "children": [
+                  "02 / ITC"
+                ]
+              },
+              {
+                "tag": "h3",
+                "attrs": {},
+                "children": [
+                  "TU MEMBRESÍA",
+                  {
+                    "tag": "br",
+                    "attrs": {},
+                    "children": []
+                  },
+                  "ITC CLUB"
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {},
+                "children": [
+                  "Consultas sobre activación, renovaciones, cancelación y cargos."
+                ]
+              },
+              {
+                "tag": "a",
+                "attrs": {
+                  "href": "mailto:info@insightthecity.com?subject=Ayuda%20con%20mi%20membres%C3%ADa%20%C2%B7%20ITC%20CLUB"
+                },
+                "children": [
+                  "Ayuda con mi membresía ",
+                  {
+                    "tag": "span",
+                    "attrs": {
+                      "aria-hidden": "true"
+                    },
+                    "children": [
+                      "↗"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "article",
+            "attrs": {
+              "class": "support-card"
+            },
+            "children": [
+              {
+                "tag": "span",
+                "attrs": {
+                  "class": "num"
+                },
+                "children": [
+                  "03 / ITC"
+                ]
+              },
+              {
+                "tag": "h3",
+                "attrs": {},
+                "children": [
+                  "TUS BENEFICIOS",
+                  {
+                    "tag": "br",
+                    "attrs": {},
+                    "children": []
+                  },
+                  "ITC CLUB"
+                ]
+              },
+              {
+                "tag": "p",
+                "attrs": {},
+                "children": [
+                  "Condiciones de uso o inconvenientes en un establecimiento participante."
+                ]
+              },
+              {
+                "tag": "a",
+                "attrs": {
+                  "href": "mailto:info@insightthecity.com?subject=Ayuda%20con%20un%20beneficio%20%C2%B7%20ITC%20CLUB"
+                },
+                "children": [
+                  "Ayuda con un beneficio ",
+                  {
+                    "tag": "span",
+                    "attrs": {
+                      "aria-hidden": "true"
+                    },
+                    "children": [
+                      "↗"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "ribbon": {
+    "tag": "div",
+    "attrs": {
+      "class": "support-ribbon",
+      "aria-hidden": "true"
+    },
+    "children": [
+      {
+        "tag": "div",
+        "attrs": {
+          "class": "support-ribbon-track"
+        },
+        "children": [
+          {
+            "tag": "span",
+            "attrs": {},
+            "children": [
+              "TE ESCUCHAMOS - TE AYUDAMOS - SEGUIMOS - TE ESCUCHAMOS - TE AYUDAMOS - SEGUIMOS - TE ESCUCHAMOS - TE AYUDAMOS - SEGUIMOS - "
+            ]
+          },
+          {
+            "tag": "span",
+            "attrs": {},
+            "children": [
+              "TE ESCUCHAMOS - TE AYUDAMOS - SEGUIMOS - TE ESCUCHAMOS - TE AYUDAMOS - SEGUIMOS - TE ESCUCHAMOS - TE AYUDAMOS - SEGUIMOS - "
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "faq": {
+    "tag": "section",
+    "attrs": {
+      "class": "support-faq"
+    },
+    "children": [
+      {
+        "tag": "div",
+        "attrs": {
+          "class": "wrap support-faq-grid"
+        },
+        "children": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  "FAQ / ITC CLUB"
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {},
+                "children": [
+                  "RESPUESTAS.",
+                  {
+                    "tag": "br",
+                    "attrs": {},
+                    "children": []
+                  },
+                  "SIN VUELTAS."
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "details",
+                "attrs": {},
+                "children": [
+                  {
+                    "tag": "summary",
+                    "attrs": {},
+                    "children": [
+                      "¿La app es gratuita?"
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {},
+                    "children": [
+                      "Sí. Puedes descubrir planes con Insight The City gratis. ITC CLUB es una membresía mensual opcional y de pago que suma beneficios en establecimientos participantes."
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "details",
+                "attrs": {},
+                "children": [
+                  {
+                    "tag": "summary",
+                    "attrs": {},
+                    "children": [
+                      "¿Cómo sé qué incluye un beneficio ITC CLUB?"
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {},
+                    "children": [
+                      "Consulta el perfil del beneficio en la app. Allí encontrarás sus condiciones, vigencia, disponibilidad y modo de uso."
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "details",
+                "attrs": {},
+                "children": [
+                  {
+                    "tag": "summary",
+                    "attrs": {},
+                    "children": [
+                      "Tuve un problema al usar un beneficio. ¿Qué hago?"
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {},
+                    "children": [
+                      "Escríbenos con el nombre del establecimiento, el beneficio y la fecha de tu visita. Describe lo ocurrido para que podamos revisar tu caso."
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "details",
+                "attrs": {},
+                "children": [
+                  {
+                    "tag": "summary",
+                    "attrs": {},
+                    "children": [
+                      "Tengo una consulta sobre mi membresía o un cargo."
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {},
+                    "children": [
+                      "Contacta al equipo indicando el correo asociado a tu cuenta y el motivo de tu consulta. Te orientaremos según tu caso."
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "details",
+                "attrs": {},
+                "children": [
+                  {
+                    "tag": "summary",
+                    "attrs": {},
+                    "children": [
+                      "¿Cómo reporto un error en la app?"
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {},
+                    "children": [
+                      "Incluye el modelo de tu teléfono, la versión de la app, una descripción del error y, si puedes, una captura de pantalla."
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "details",
+                "attrs": {},
+                "children": [
+                  {
+                    "tag": "summary",
+                    "attrs": {},
+                    "children": [
+                      "¿Puedo enviar sugerencias o reportar información?"
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "attrs": {},
+                    "children": [
+                      "Sí. Nos ayuda conocer tus ideas y saber si algún lugar, evento o beneficio necesita actualizarse. Escríbenos con los detalles."
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "tag": "section",
+    "attrs": {
+      "class": "support-contact wrap",
+      "id": "contact"
+    },
+    "children": [
+      {
+        "tag": "div",
+        "attrs": {
+          "class": "support-contact-box"
+        },
+        "children": [
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "p",
+                "attrs": {
+                  "class": "eyebrow"
+                },
+                "children": [
+                  "HABLEMOS."
+                ]
+              },
+              {
+                "tag": "h2",
+                "attrs": {},
+                "children": [
+                  "ESTAMOS PARA",
+                  {
+                    "tag": "br",
+                    "attrs": {},
+                    "children": []
+                  },
+                  "AYUDARTE."
+                ]
+              },
+              {
+                "tag": "a",
+                "attrs": {
+                  "class": "contact-address",
+                  "href": "mailto:info@insightthecity.com"
+                },
+                "children": [
+                  "info@insightthecity.com"
+                ]
+              },
+              {
+                "tag": "a",
+                "attrs": {
+                  "class": "button",
+                  "style": "background:#080808;color:#f9d24e",
+                  "href": "mailto:info@insightthecity.com?subject=ITC%20App%20Support"
+                },
+                "children": [
+                  "Escríbenos ↗"
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attrs": {},
+            "children": [
+              {
+                "tag": "h3",
+                "attrs": {},
+                "children": [
+                  "Para ayudarte mejor"
+                ]
+              },
+              {
+                "tag": "ul",
+                "attrs": {},
+                "children": [
+                  {
+                    "tag": "li",
+                    "attrs": {},
+                    "children": [
+                      "El correo asociado a tu cuenta"
+                    ]
+                  },
+                  {
+                    "tag": "li",
+                    "attrs": {},
+                    "children": [
+                      "Una descripción de lo ocurrido"
+                    ]
+                  },
+                  {
+                    "tag": "li",
+                    "attrs": {},
+                    "children": [
+                      "Una captura de pantalla, si aplica"
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "small",
+                "attrs": {},
+                "children": [
+                  "Tu experiencia nos ayuda a mejorar."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "tag": "footer",
+    "attrs": {
+      "class": "support-footer"
+    },
+    "children": [
+      {
+        "tag": "div",
+        "attrs": {
+          "class": "wrap"
+        },
+        "children": [
+          {
+            "tag": "a",
+            "attrs": {
+              "href": "/"
+            },
+            "children": [
+              {
+                "tag": "span",
+                "attrs": {
+                  "class": "brand-logo"
+                },
+                "children": [
+                  {
+                    "tag": "img",
+                    "attrs": {
+                      "src": "/assets/itc-club-logo.png",
+                      "alt": "ITC Club"
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "p",
+            "attrs": {},
+            "children": [
+              "Ayuda y soporte de la app Insight The City y la membresía ITC CLUB.",
+              {
+                "tag": "br",
+                "attrs": {},
+                "children": []
+              },
+              "© 2026 Eventland LLC · Insight The City"
+            ]
+          },
+          {
+            "tag": "a",
+            "attrs": {
+              "href": "/"
+            },
+            "children": [
+              "Conoce la app ↗"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "criollas": {
+    "category": "COMIDA · COLUMBUS CIRCLE, NYC",
+    "title": "CRIOLLAS",
+    "highlight": "3 EMPANADAS. PAGAS 2.",
+    "content": {
+      "tag": "div",
+      "children": [
+        {
+          "tag": "p",
+          "attrs": {},
+          "children": [
+            "Elige tres empanadas individuales del menú regular. La de menor precio es gratis."
+          ]
+        },
+        {
+          "tag": "ul",
+          "attrs": {},
+          "children": [
+            {
+              "tag": "li",
+              "attrs": {},
+              "children": [
+                "Para consumo o compra presencial en Criollas, Turnstyle Underground Market, Columbus Circle."
+              ]
+            },
+            {
+              "tag": "li",
+              "attrs": {},
+              "children": [
+                "Un uso por persona y por visita. Sujeto a disponibilidad de sabores."
+              ]
+            },
+            {
+              "tag": "li",
+              "attrs": {},
+              "children": [
+                "Excluye combos, cajas, congelados, catering, bebidas, postres, mercancía y sabores de temporada o edición limitada."
+              ]
+            },
+            {
+              "tag": "li",
+              "attrs": {},
+              "children": [
+                "No aplica a pedidos en línea, delivery ni plataformas de terceros. No es acumulable con otras promociones."
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attrs": {},
+          "children": [
+            "Beneficio de ITC Club. Consulta la vigencia, las condiciones completas y cómo obtener el beneficio en el perfil del establecimiento dentro de la app."
+          ]
+        }
+      ]
+    }
+  },
+  "beauty": {
+    "category": "BELLEZA · QUEENS, NUEVA YORK",
+    "title": "BEAUTY BY JEN OFICIAL",
+    "highlight": "15% DE DESCUENTO",
+    "content": {
+      "tag": "div",
+      "children": [
+        {
+          "tag": "p",
+          "attrs": {},
+          "children": [
+            "Disfruta 15% de descuento en servicios de belleza elegibles en Beauty by Jen Oficial, en Queens."
+          ]
+        },
+        {
+          "tag": "p",
+          "attrs": {},
+          "children": [
+            "Descubre opciones de cuidado de la piel, tratamientos faciales, cejas, maquillaje permanente, pestañas y otros servicios. La selección de servicios incluidos se indicará en el perfil del establecimiento."
+          ]
+        },
+        {
+          "tag": "p",
+          "attrs": {},
+          "children": [
+            "Beneficio de ITC Club. Consulta la vigencia, las condiciones completas y las indicaciones para obtener el beneficio en la app."
+          ]
+        }
+      ]
+    }
+  },
+  "riseny": {
+    "category": "ATRACCIONES · NUEVA YORK",
+    "title": "RISENY",
+    "highlight": "15% DE DESCUENTO POR PERSONA",
+    "content": {
+      "tag": "div",
+      "children": [
+        {
+          "tag": "p",
+          "attrs": {},
+          "children": [
+            "Descubre Nueva York desde las alturas con un beneficio de ITC Club: 15% de descuento por persona en RiseNY."
+          ]
+        },
+        {
+          "tag": "p",
+          "attrs": {},
+          "children": [
+            "Consulta los tipos de entrada incluidos, la vigencia, las condiciones completas y el enlace para obtener el beneficio en el perfil de RiseNY dentro de la app."
+          ]
+        }
+      ]
+    }
+  },
+  "conditions": {
+    "category": "INFORMACIÓN PARA MIEMBROS",
+    "title": "CADA PLAN, CON SUS CONDICIONES.",
+    "highlight": "REVÍSALAS ANTES DE IR.",
+    "content": {
+      "tag": "div",
+      "children": [
+        {
+          "tag": "p",
+          "attrs": {},
+          "children": [
+            "La app Insight The City se descarga gratis. ITC Club es una membresía mensual opcional de pago para acceder a beneficios exclusivos."
+          ]
+        },
+        {
+          "tag": "p",
+          "attrs": {},
+          "children": [
+            "Los beneficios requieren una membresía activa y están sujetos a las condiciones, vigencia y disponibilidad de cada establecimiento. La forma de obtenerlos se explica en su perfil dentro de la app."
+          ]
+        },
+        {
+          "tag": "p",
+          "attrs": {},
+          "children": [
+            "Antes de activar ITC Club podrás consultar el precio y las condiciones de la suscripción. Puedes cancelar la renovación; el acceso continúa hasta el final del período vigente."
+          ]
+        },
+        {
+          "tag": "p",
+          "attrs": {},
+          "children": [
+            "ITC Club puede recibir pagos o comisiones por los beneficios."
+          ]
+        },
+        {
+          "tag": "p",
+          "attrs": {},
+          "children": [
+            "¿Necesitas ayuda? Escríbenos a ",
+            {
+              "tag": "a",
+              "attrs": {
+                "href": "mailto:info@insightthecity.com"
+              },
+              "children": [
+                "info@insightthecity.com"
+              ]
+            },
+            "."
+          ]
+        }
+      ]
+    }
+  }
+}

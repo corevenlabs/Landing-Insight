@@ -1,0 +1,24 @@
+/* Requested changes: transparent navbar without a bottom rule, video hero. */
+.support-header {
+  position: absolute;
+  inset: 0 0 auto;
+  z-index: 10;
+  background: transparent;
+  border-bottom: 0;
+  box-shadow: none;
+}
+.support-hero { padding-top: 185px; }
+.support-hero::before { content: none; }
+.support-hero-video,
+.support-hero-overlay {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+.support-hero-video { object-fit: cover; }
+.support-hero-overlay { background: linear-gradient(90deg, #080808d9 18%, #08080875 75%); }
+@media (max-width: 700px) {
+  .support-hero { padding-top: 145px; }
+}
