@@ -331,3 +331,12 @@ button:focus-visible,a:focus-visible,summary:focus-visible{outline:3px solid var
 .hero-video-toggle:hover{border-color:var(--yellow)}
 @media(max-width:700px){.hero-video{object-position:59% 27%}.hero-video-toggle{right:18px;bottom:90px}}
 @media(prefers-reduced-motion:reduce){.hero-video,.hero-video-toggle{display:none}}
+
+/* Language controls remain available independently of the mobile menu. */
+.language-selector{display:flex;flex-shrink:0;gap:5px;padding:5px;border:1px solid #44443b;border-radius:50px}
+.language-selector button{padding:9px 12px;border-radius:30px;background:transparent;color:inherit;font:inherit;font-size:12px;cursor:pointer}
+.language-selector button[aria-pressed=true]{background:var(--yellow);color:#080808}
+.language-selector button:focus-visible{outline:2px solid var(--yellow);outline-offset:3px}
+@media(min-width:901px) and (max-width:1150px){.desktop-nav{gap:15px}.header-inner{gap:16px}.brand-by{display:none}}
+@media(max-width:900px){.language-selector{margin-left:auto}}
+@media(max-width:700px){.language-selector button{padding:9px}}

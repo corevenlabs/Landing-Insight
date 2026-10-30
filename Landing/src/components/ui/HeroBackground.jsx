@@ -2,7 +2,7 @@ import { useEffect, useRef, useState } from 'react';
 import { useLanding } from '../../context/LandingContext';
 
 export default function HeroBackground() {
-  const { content } = useLanding();
+  const { content, t } = useLanding();
   const video = useRef(null);
   const pausedByUser = useRef(false);
   const [playing, setPlaying] = useState(false);
@@ -45,8 +45,8 @@ export default function HeroBackground() {
         onPlay={() => setPlaying(true)} onPause={() => setPlaying(false)} />
     </div>
     {!failed && <button type="button" className="hero-video-toggle" onClick={toggle}
-      aria-label={playing ? 'Pausar video de fondo' : 'Reproducir video de fondo'}>
-      {playing ? 'Pausar video' : 'Reproducir video'}
+      aria-label={t(playing ? 'Pausar video de fondo' : 'Reproducir video de fondo')}>
+      {t(playing ? 'Pausar video' : 'Reproducir video')}
     </button>}
   </>;
 }

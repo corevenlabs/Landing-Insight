@@ -1,6 +1,7 @@
 import { createElement } from 'react';
 import HeroBackground from './HeroBackground';
 import PhoneMockup from './PhoneMockup';
+import LanguageSelector from './LanguageSelector';
 import { useLanding } from '../../context/LandingContext';
 
 // Shared content blocks preserve the reference markup and SVGs without injecting HTML.
@@ -14,6 +15,7 @@ export default function Content({ node }) {
   if (typeof node === 'string') return node;
   if (!node) return null;
   const { tag, attrs = {}, children = [] } = node;
+  if (attrs.class?.split(' ').includes('header-cta')) return <LanguageSelector />;
   if (attrs.class === 'hero-photo') return <HeroBackground />;
   if (attrs.class?.split(' ').includes('phone')) return <PhoneMockup node={node} />;
   const props = {};
@@ -25,7 +27,7 @@ export default function Content({ node }) {
   if (props.href?.startsWith('assets/')) props.href = `/${props.href}`;
   if (props.className === 'menu-toggle') {
     props['aria-expanded'] = state.menuOpen;
-    props['aria-label'] = state.menuOpen ? 'Cerrar menú' : 'Abrir menú';
+    props['aria-label'] = state.t(state.menuOpen ? 'Cerrar menú' : 'Abrir menú');
     props.onClick = () => state.setMenuOpen(open => !open);
   }
   if (props.id === 'mobile-menu') props.hidden = !state.menuOpen;
